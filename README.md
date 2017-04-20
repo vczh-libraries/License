@@ -17,7 +17,7 @@ For any project which uses any source codes from these repo, authors should ensu
 - You cannot use **GacUI** with any project under GPL family licenses. It's OK if your project is not under GPL family licenses but contains LGPL components.
 - You cannot use **GacUI** to achieve any illegal goal.
 - If you modify **GacUI**, you should share your modification to [vczh](https://github.com/vczh) under **this license**, and ensure that they are self-contained and can be compiled.
-- If you port **GacUI** to new platforms, which basically means you create any derived classes of `::vl::presentation::INative*` or `::vl::presentation::elements::I*` interfaces, you should share them to [vczh](https://github.com/vczh) under this **license**, and ensure that they are self-contained and can be compiled.
+- If you port **GacUI** to new platforms, which basically means you create any derived classes of `::vl::presentation::INative*` or `::vl::presentation::elements::I*` interfaces, you should share them to [vczh](https://github.com/vczh) under **this license**, and ensure that they are self-contained and can be compiled.
 
 P.S.
 - **GacUI** includes all files in these release repos.
