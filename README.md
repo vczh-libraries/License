@@ -11,7 +11,7 @@ This repo contains license information for other repos in this organization. The
 
 ### Content
 
-All files in these repos, if they are created by [vczh](https://github.com/vczh), can be shared under [Apache v2.0](https://github.com/vczh-libraries/License/blob/master/LICENSE_Apache_v2), with extra restrictions:
+All files in these repos, if they are created by [vczh](https://github.com/vczh) or other members in this organization, can be shared under [Apache v2.0](https://github.com/vczh-libraries/License/blob/master/LICENSE_Apache_v2), with extra restrictions:
 
 For any project which uses any source codes from these repo, authors should ensure the following restrictions
 - You cannot use GacUI with any project under GPL family licenses.
