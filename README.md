@@ -1,6 +1,6 @@
 # License
 
-This repo contains license information for other repos in this organization. The LICENSE file (which is Apache 2.0) only apply to this file (README.md).
+This repo contains license information for other repos in this organization. The [LICENSE](https://github.com/vczh-libraries/License/blob/master/LICENSE) file only applies to this file (README.md).
 
 # License for release repos
 
