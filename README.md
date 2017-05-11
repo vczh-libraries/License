@@ -37,7 +37,9 @@ If you have special need, please estabilish an agreement with [vczh](https://git
 
 ### Content
 
-All non-executable files in these repo, if they are created by [vczh](https://github.com/vczh), are only for read and debug. You cannot use them in your project.
+All files in these repos, if they are created by [vczh](https://github.com/vczh) or other members in this organization, can be shared under [Microsoft Reference Source License](https://github.com/vczh-libraries/License/blob/master/LICENSE_MS_RSL), which simply means:
+* You can read and debug the source code
+* You cannot use it for other purpose
 
 **Release repos** contain everything you need if you want to use them. You are authorized to use all the source codes [here](https://github.com/vczh-libraries/Release/tree/master/Import) under the license, but not source codes in dev repos, although they are the same only with different file organization.
 
