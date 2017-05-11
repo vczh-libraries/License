@@ -16,15 +16,15 @@ All files in these repos, if they are created by [vczh](https://github.com/vczh)
 For any project which uses any source codes from these repo, authors should ensure the following restrictions
 1. You cannot use **GacUI** with any project under GPL family licenses. It's OK if your project is not under GPL family licenses but contains LGPL components.
 2. You cannot use **GacUI** to achieve any illegal goal.
-3. If you modify **GacUI**, you should share your modification to [vczh](https://github.com/vczh) under **this license**, and ensure that they are self-contained and can be compiled.
-4. If you port **GacUI** to new platforms, which basically means you create any derived classes of `::vl::presentation::INative*` or `::vl::presentation::elements::I*` interfaces, you should share them to [vczh](https://github.com/vczh) under **this license**, and ensure that they are self-contained and can be compiled.
-5. If you redistribute the code, you should keep them under **this license**. But any code that is not covered by `3.` or `4.` is not restricted.
+3. You should share your improvements or modifications of **GacUI** to [vczh](https://github.com/vczh) under **this license**, and ensure that they are self-contained and can be compiled, if
+    - You modify **GacUI**
+    - You port **GacUI** to new platforms, which basically means you create derived classes of `::vl::presentation::INative*` or `::vl::presentation::elements::I*`.
+4. If you redistribute the code, you should keep **GacUI** under **this license**. All other code is not restricted.
+5. If you have special need, please estabilish an agreement with [vczh](https://github.com/vczh).
 
 P.S.
-- **GacUI** includes all files in these release repos.
+- **GacUI** includes all files in these release repos, and all improvements or modifications described by `3.`.
 - **This license** here means Apache v2.0 with these extra restrictions.
-
-If you have special need, please estabilish an agreement with [vczh](https://github.com/vczh).
 
 # License for dev repos
 
