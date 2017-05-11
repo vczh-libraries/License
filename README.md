@@ -14,10 +14,11 @@ This repo contains license information for other repos in this organization. The
 All files in these repos, if they are created by [vczh](https://github.com/vczh) or other members in this organization, can be shared under [Apache v2.0](https://github.com/vczh-libraries/License/blob/master/LICENSE_Apache_v2), with extra restrictions:
 
 For any project which uses any source codes from these repo, authors should ensure the following restrictions
-- You cannot use **GacUI** with any project under GPL family licenses. It's OK if your project is not under GPL family licenses but contains LGPL components.
-- You cannot use **GacUI** to achieve any illegal goal.
-- If you modify **GacUI**, you should share your modification to [vczh](https://github.com/vczh) under **this license**, and ensure that they are self-contained and can be compiled.
-- If you port **GacUI** to new platforms, which basically means you create any derived classes of `::vl::presentation::INative*` or `::vl::presentation::elements::I*` interfaces, you should share them to [vczh](https://github.com/vczh) under **this license**, and ensure that they are self-contained and can be compiled.
+1. You cannot use **GacUI** with any project under GPL family licenses. It's OK if your project is not under GPL family licenses but contains LGPL components.
+2. You cannot use **GacUI** to achieve any illegal goal.
+3. If you modify **GacUI**, you should share your modification to [vczh](https://github.com/vczh) under **this license**, and ensure that they are self-contained and can be compiled.
+4. If you port **GacUI** to new platforms, which basically means you create any derived classes of `::vl::presentation::INative*` or `::vl::presentation::elements::I*` interfaces, you should share them to [vczh](https://github.com/vczh) under **this license**, and ensure that they are self-contained and can be compiled.
+5. If you redistribute the code, you should keep them under **this license**. But any code that is not covered by `3.` or `4.` is not restricted.
 
 P.S.
 - **GacUI** includes all files in these release repos.
