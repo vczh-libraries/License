@@ -18,7 +18,7 @@ For any project which uses any source codes from these repo, authors should ensu
 2. You cannot use **GacUI** to achieve any illegal goal.
 3. You should share your improvements or modifications of **GacUI** to [vczh](https://github.com/vczh) under **this license**, and ensure that they are self-contained and can be compiled, if
     - You modify **GacUI**
-    - You port **GacUI** to new platforms, which basically means you create derived classes of `::vl::presentation::INative*` or `::vl::presentation::elements::I*`.
+    - You port **GacUI** to new platforms, which basically means all classes derived from `::vl::presentation::INative*` or `::vl::presentation::elements::I*` directly or indirectly.
     - This rule doesn't apply to other kinds of improvements, e.g. adding new templates or new controls.
 4. If you redistribute the code, you should keep **GacUI** under **this license**. All other code is not restricted.
 5. If you have special need, please estabilish an agreement with [vczh](https://github.com/vczh).
