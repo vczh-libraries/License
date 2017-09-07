@@ -11,21 +11,22 @@ This repo contains license information for other repos in this organization. The
 
 ### Content
 
-All files in these repos, if they are created by [vczh](https://github.com/vczh) or other members in this organization, can be shared under [Apache v2.0](https://github.com/vczh-libraries/License/blob/master/LICENSE_Apache_v2), with extra restrictions:
+All files in these repos, if they are created by [vczh](https://github.com/vczh) or other members in this organization, can be shared under [Apache v2.0](https://github.com/vczh-libraries/License/blob/master/LICENSE_Apache_v2), with **the extra restrictions**.
+
+### The Extra Restrictions
 
 For any project which uses any source codes from these repo, authors should ensure the following restrictions
-1. You cannot use **GacUI** with any project under GPL family licenses. It's OK if your project is not under GPL family licenses but contains LGPL components.
-2. You cannot use **GacUI** to achieve any illegal goal.
-3. You should share your improvements or modifications of **GacUI** to [vczh](https://github.com/vczh) under **this license**, and ensure that they are self-contained and can be compiled, if
+1. If you want to redistribute **GacUI** or its modified version, to the public or inside any organization, you can choose any compatible license, but you should also include **the extra restrictions**.
+2. You should share your improvements or modifications of **GacUI** to [vczh](https://github.com/vczh) under **this license**, and ensure that they are self-contained and can be compiled, if
     - You modify **GacUI**
     - You port **GacUI** to new platforms, which basically means all classes derived from `::vl::presentation::INative*` or `::vl::presentation::elements::I*` directly or indirectly.
     - This rule doesn't apply to other kinds of improvements, e.g. adding new templates or new controls.
-4. If you redistribute the code, you should keep **GacUI** under **this license**. All other code is not restricted.
-5. If you have special need, please estabilish an agreement with [vczh](https://github.com/vczh).
+3. If you have special need, please establish an agreement with [vczh](https://github.com/vczh).
 
 P.S.
 - **GacUI** includes all files in these release repos, and all improvements or modifications described by `3.`.
-- **This license** here means Apache v2.0 with these extra restrictions.
+- **This license** here means Apache v2.0 with **the extra restrictions**.
+- **The extra restrictions** means everything under the section "The Extra Restrictions".
 
 # License for dev repos
 
@@ -45,4 +46,4 @@ All files in these repos, if they are created by [vczh](https://github.com/vczh)
 
 **Release repos** contain everything you need if you want to use them. You are authorized to use all the source codes [here](https://github.com/vczh-libraries/Release/tree/master/Import) under the license, but not source codes in dev repos, although they are the same only with different file organization.
 
-If you have special need, please estabilish an agreement with [vczh](https://github.com/vczh).
+If you have special need, please establish an agreement with [vczh](https://github.com/vczh).
