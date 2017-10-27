@@ -24,7 +24,7 @@ For any project which uses any source codes from these repo, authors should ensu
 3. If you have special need, please establish an agreement with [vczh](https://github.com/vczh).
 
 P.S.
-- **GacUI** includes all files in these release repos, and all improvements or modifications described by `3.`.
+- **GacUI** includes all files in these release repos, and all improvements or modifications described by `2.`.
 - **This license** here means Apache v2.0 with **the extra restrictions**.
 - **The extra restrictions** means everything under the section "The Extra Restrictions".
 
