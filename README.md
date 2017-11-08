@@ -23,7 +23,7 @@ For any project which uses **GacUI**, authors should ensure the following restri
     - Ensure the modified version is self-contained.
     - This rule only applies to the **GacUI** part of your projects.
 3. If you port **GacUI** to a new platform, or create a new port to replace any existing port, it is also considered as modification.
-    - If the platform or the source code running on a platform that is private or protected by any contracts, see `5.`.
+    - If the platform or the source code running on a platform that is private or protected by any contracts, see `5.`.
 4. `2.` and `3.` don't apply to any other kinds of improvements, e.g. adding new templates, new controls, new user interfaces, or making new tools to help developing projects that consume **GacUI**.
 5. If you have special need, please establish an agreement with [vczh](https://github.com/vczh).
 
