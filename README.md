@@ -40,7 +40,7 @@ For any project which uses **GacUI**, authors should ensure the following restri
 - [vczh-libraries/vczh-libraries.github.io](https://github.com/vczh-libraries/vczh-libraries.github.io)
 ### And also applies to
 - All forks of **dev repos**
-- All non-master branches of **release repos**
+- All non-master branches of **release repos** (including forks of these branches)
 
 ### Content
 
