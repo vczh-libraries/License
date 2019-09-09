@@ -34,6 +34,10 @@ For any project which uses **GacUI**, authors should ensure the following restri
 ### Applies to
 - [vczh-libraries/Tools](https://github.com/vczh-libraries/Tools)
 - [vczh-libraries/Vlpp](https://github.com/vczh-libraries/Vlpp)
+- [vczh-libraries/VlppOS](https://github.com/vczh-libraries/VlppOS)
+- [vczh-libraries/VlppRegex](https://github.com/vczh-libraries/VlppRegex)
+- [vczh-libraries/VlppParser](https://github.com/vczh-libraries/VlppParser)
+- [vczh-libraries/VlppReflection](https://github.com/vczh-libraries/VlppReflection)
 - [vczh-libraries/Workflow](https://github.com/vczh-libraries/Workflow)
 - [vczh-libraries/GacUI](https://github.com/vczh-libraries/GacUI)
 - [vczh-libraries/Document](https://github.com/vczh-libraries/Document)
