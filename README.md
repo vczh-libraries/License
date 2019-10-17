@@ -52,6 +52,7 @@ For any project which uses **GacUI**, authors should ensure the following restri
 All files in these locations, if they are originally created by or have been modified by [vczh](https://github.com/vczh) or other members in this organization, can be shared under [Microsoft Reference Source License](https://github.com/vczh-libraries/License/blob/master/LICENSE_MS_RSL), which simply means:
 * You can read and debug the source code
 * You cannot use it for other purposes
+* This license doesn't stop you from joining this project, but you must updating it by making PRs, not releasing your own forks.
 
 **Release repos** contain everything you need if you want to use them. You are authorized to use all the source codes [here](https://github.com/vczh-libraries/Release/tree/master/Import) under the license, but not source codes in dev repos, although they are the same only with different file organization.
 
