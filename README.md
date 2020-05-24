@@ -42,6 +42,7 @@ For any project which uses **GacUI**, authors should ensure the following restri
 - [vczh-libraries/GacUI](https://github.com/vczh-libraries/GacUI)
 - [vczh-libraries/Document](https://github.com/vczh-libraries/Document)
 - [vczh-libraries/GacJS](https://github.com/vczh-libraries/GacJS)
+- [vczh-libraries/WebsiteSource](https://github.com/vczh-libraries/WebsiteSource)
 - [vczh-libraries/vczh-libraries.github.io](https://github.com/vczh-libraries/vczh-libraries.github.io)
 ### And also applies to
 - All forks of **dev repos**
