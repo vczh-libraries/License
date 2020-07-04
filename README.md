@@ -27,7 +27,7 @@ For any project which uses **GacUI**, authors should ensure the following restri
 4. `2.` and `3.` don't apply to any other kinds of improvements, e.g. adding new templates, new controls, new user interfaces, or making new tools to help developing projects that consume **GacUI** ---- as long as they don't satisfy `2.` or `3.`.
 5. If you have special need, please establish an agreement with [vczh](https://github.com/vczh).
 
-**GacUI** means any source code from these locations or its derived version.
+**GacUI** means any source code in this github organization or its derived version.
 
 # License for dev repos
 
