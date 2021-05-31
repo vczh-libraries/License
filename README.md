@@ -13,6 +13,10 @@ This repo contains license information for other repos in this organization. The
 
 All files in these locations, if they are originally created by or have been modified by [vczh](https://github.com/vczh) or other members in this organization, can be shared under [Apache v2.0](https://github.com/vczh-libraries/License/blob/master/LICENSE_Apache_v2), with **the extra restrictions**. For any statement in the Apache v2.0 license, if it conflicts with this file (README.md), then the one in this file has higher priority.
 
+This license also applies to any fork that originated from above branches.
+
+Owners of forks could change the license but it must satisfies **the extra restrictions**.
+
 ### The Extra Restrictions
 
 For any project which uses **GacUI**, authors should ensure the following restrictions
