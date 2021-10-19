@@ -7,6 +7,7 @@ This repo contains license information for other repos in this organization. The
 ### Applies to master branches of
 - [vczh-libraries/Release](https://github.com/vczh-libraries/Release)
 - [vczh-libraries/iGac](https://github.com/vczh-libraries/iGac)
+- [vczh-libraries/iGac](https://github.com/vczh-libraries/gGac)
 
 ### Content
 
@@ -47,7 +48,6 @@ For any project which uses **GacUI**, authors should ensure the following restri
 - [vczh-libraries/GacJS](https://github.com/vczh-libraries/GacJS)
 - [vczh-libraries/WebsiteSource](https://github.com/vczh-libraries/WebsiteSource)
 - [vczh-libraries/vczh-libraries.github.io](https://github.com/vczh-libraries/vczh-libraries.github.io)
-- [vczh-libraries/gGac](https://github.com/vczh-libraries/gGac)
 - [vczh-libraries/XGac](https://github.com/vczh-libraries/XGac)
 ### And also applies to
 - All forks of **dev repos**
