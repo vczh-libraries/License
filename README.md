@@ -7,7 +7,7 @@ This repo contains license information for other repos in this organization. The
 ### Applies to master branches of
 - [vczh-libraries/Release](https://github.com/vczh-libraries/Release)
 - [vczh-libraries/iGac](https://github.com/vczh-libraries/iGac)
-- [vczh-libraries/iGac](https://github.com/vczh-libraries/gGac)
+- [vczh-libraries/gGac](https://github.com/vczh-libraries/gGac)
 
 ### Content
 
