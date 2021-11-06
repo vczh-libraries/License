@@ -41,17 +41,20 @@ For any project which uses **GacUI**, authors should ensure the following restri
 - [vczh-libraries/VlppOS](https://github.com/vczh-libraries/VlppOS)
 - [vczh-libraries/VlppRegex](https://github.com/vczh-libraries/VlppRegex)
 - [vczh-libraries/VlppParser](https://github.com/vczh-libraries/VlppParser)
+- [vczh-libraries/VlppParser2](https://github.com/vczh-libraries/VlppParser2)
 - [vczh-libraries/VlppReflection](https://github.com/vczh-libraries/VlppReflection)
 - [vczh-libraries/Workflow](https://github.com/vczh-libraries/Workflow)
 - [vczh-libraries/GacUI](https://github.com/vczh-libraries/GacUI)
 - [vczh-libraries/Document](https://github.com/vczh-libraries/Document)
-- [vczh-libraries/GacJS](https://github.com/vczh-libraries/GacJS)
 - [vczh-libraries/WebsiteSource](https://github.com/vczh-libraries/WebsiteSource)
 - [vczh-libraries/vczh-libraries.github.io](https://github.com/vczh-libraries/vczh-libraries.github.io)
-- [vczh-libraries/XGac](https://github.com/vczh-libraries/XGac)
+- Abondoned Repos
+  - [vczh-libraries/GacJS](https://github.com/vczh-libraries/GacJS)
+  - [vczh-libraries/XGac](https://github.com/vczh-libraries/XGac)
+
 ### And also applies to
 - All forks of **dev repos**
-- All non-master branches of **release repos** (including forks of these branches)
+- All non-master branches (and their forks) of **release repos**
 
 ### Content
 
