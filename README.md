@@ -23,12 +23,11 @@ For any project which uses **GacUI**, authors should ensure the following restri
 1. If you want to redistribute the source code of **GacUI** to any other person, organization or release it publicly, you can choose any compatible license, but you should also include **the extra restrictions**.
 2. If you modify **GacUI**, you should:
     - Grant [vczh](https://github.com/vczh) the permission of using the modified version, including merging them into [this organization](https://github.com/vczh-libraries), without any condition or restriction.
-        - Including but not limited to: Fixing bugs.
     - Ensure the modified version is self-contained.
     - This rule only applies to the **GacUI** part of your projects.
 3. If you port **GacUI** to a new platform, or create a new port to replace any existing port, it is also considered as modification.
     - If the platform or the source code running on a platform that is private or protected by any contracts, see `5.`.
-4. `2.` and `3.` don't apply to any other kinds of improvements, e.g. adding new templates, new controls, new user interfaces, or making new tools to help developing projects that consume **GacUI** ---- as long as they don't satisfy `2.` or `3.`.
+4. `2.` and `3.` don't apply to any other kinds of improvements, e.g. adding new templates, new controls, new user interfaces, or making new tools to help developing projects that consume **GacUI**.
 5. If you have special need, please establish an agreement with [vczh](https://github.com/vczh).
 
 **GacUI** means any source code in this github organization or its derived version.
