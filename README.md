@@ -29,7 +29,9 @@ For any project which uses **GacUI**, authors should ensure the following restri
 5. If you have special need, please establish an agreement with [vczh](https://github.com/vczh).
 
 **GacUI** means any source code in this github organization or its derived version.
+
 **GacUI Organization** means [github.com/vczh-libraries](https://github.com/vczh-libraries)
+
 **GacUI Authors** means all autorized developers in [the GacUI team](https://github.com/orgs/vczh-libraries/people).
 
 # License for dev repos
