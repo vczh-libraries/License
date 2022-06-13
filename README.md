@@ -11,26 +11,26 @@ This repo contains license information for other repos in this organization. The
 
 ### Content
 
-All files in these locations, if they are originally created by or have been modified by [vczh](https://github.com/vczh) or other members in this organization, can be shared under [Apache v2.0](https://github.com/vczh-libraries/License/blob/master/LICENSE_Apache_v2), with **the extra restrictions**. For any statement in the Apache v2.0 license, if it conflicts with this file (README.md), then the one in this file has higher priority.
+All source files in these locations that created by **GacUI Authors**, can be shared under [Apache v2.0](https://github.com/vczh-libraries/License/blob/master/LICENSE_Apache_v2), with **the extra restrictions**. For any statement in the Apache v2.0 license, if it conflicts with this file (README.md), then the one in this file has higher priority.
 
-This license also applies to any fork that originated from above branches.
-
-Owners of forks could change the license but it must satisfies **the extra restrictions**.
+Image files are not shared under this license, they can only be used in test projects in **GacUI Organization**.
 
 ### The Extra Restrictions
 
 For any project which uses **GacUI**, authors should ensure the following restrictions
 1. If you want to redistribute the source code of **GacUI** to any other person, organization or release it publicly, you can choose any compatible license, but you should also include **the extra restrictions**.
 2. If you modify **GacUI**, you should:
-    - Grant [vczh](https://github.com/vczh) the permission of using the modified version, including merging them into [this organization](https://github.com/vczh-libraries), without any condition or restriction.
+    - Grant **GacUI Authors** the permission of using the modified version, including merging them into **GacUI Organization**, without any condition or restriction.
     - Ensure the modified version is self-contained.
     - This rule only applies to the **GacUI** part of your projects.
 3. If you port **GacUI** to a new platform, or create a new port to replace any existing port, it is also considered as modification.
     - If the platform or the source code running on a platform that is private or protected by any contracts, see `5.`.
-4. `2.` and `3.` don't apply to any other kinds of improvements, e.g. adding new templates, new controls, new user interfaces, or making new tools to help developing projects that consume **GacUI**.
+4. `2.` and `3.` don't apply to any other kinds of improvements that are not changing licensed source files, e.g. adding new templates, new controls, new user interfaces, or making new tools to help developing projects that consume **GacUI**.
 5. If you have special need, please establish an agreement with [vczh](https://github.com/vczh).
 
 **GacUI** means any source code in this github organization or its derived version.
+**GacUI Organization** means [github.com/vczh-libraries](https://github.com/vczh-libraries)
+**GacUI Authors** means all autorized developers in [the GacUI team](https://github.com/orgs/vczh-libraries/people).
 
 # License for dev repos
 
@@ -53,7 +53,7 @@ For any project which uses **GacUI**, authors should ensure the following restri
 
 ### And also applies to
 - All forks of **dev repos**
-- All non-master branches (and their forks) of **release repos**
+- All non-master branches of **release repos**
 
 ### Content
 
