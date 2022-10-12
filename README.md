@@ -62,7 +62,16 @@ For any project which uses **GacUI**, authors should ensure the following restri
 All files in these locations, if they are originally created by or have been modified by [vczh](https://github.com/vczh) or other members in this organization, can be shared under [Microsoft Reference Source License](https://github.com/vczh-libraries/License/blob/master/LICENSE_MS_RSL), which simply means:
 * You can read and debug the source code
 * You cannot use it for other purposes
-* This license doesn't stop you from joining this project, but you must updating it by making PRs, not releasing your own forks.
+* This license doesn't stop you from submitting PRs to these repos, but you should not distribute the modification via your own forks.
+
+### Exception
+
+You are allowed to build the following projects and run the executables **in your local machine** if it is not convenient for you to use the executables in **the Release repo** directly, with modification to their project files to satisfy to your need, but you should be aware that, the development progress of these repos could be ahead of **the Release repo**, so there could be compatible issues.
+
+- [Workflow/Tools/CppMerge](https://github.com/vczh-libraries/Workflow/tree/master/Tools/CppMerge)
+- [GacUI/Tools/GacGen](https://github.com/vczh-libraries/GacUI/tree/master/Tools/GacGen)
+
+### Notice
 
 **Release repos** contain everything you need if you want to use them. You are authorized to use all the source codes [here](https://github.com/vczh-libraries/Release/tree/master/Import) under the license, but not source codes in dev repos, although they are the same only with different file organization.
 
