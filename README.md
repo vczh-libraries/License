@@ -4,7 +4,7 @@ This repo contains license information for other repos in this organization. The
 
 # License for release repos
 
-### Applies to master branches of
+### Applies to `master` and `release-*` branches of
 - [vczh-libraries/Release](https://github.com/vczh-libraries/Release)
 - [vczh-libraries/iGac](https://github.com/vczh-libraries/iGac)
 - [vczh-libraries/gGac](https://github.com/vczh-libraries/gGac)
@@ -55,7 +55,7 @@ For any project which uses **GacUI**, authors should ensure the following restri
 
 ### And also applies to
 - All forks of **dev repos**
-- All non-master branches of **release repos**
+- All unmentioned branches of **release repos**
 
 ### Content
 
@@ -66,8 +66,11 @@ All files in these locations, if they are originally created by or have been mod
 
 ### Exception
 
-You are allowed to build the following projects and run the executables **in your local machine** if it is not convenient for you to use the executables in **the Release repo** directly, with modification to their project files to satisfy to your need, but you should be aware that, the development progress of these repos could be ahead of **the Release repo**, so there could be compatible issues.
+You are allowed to build the following projects and run the executables **in your local machine** if it is not convenient for you to use the executables in **the Release repo** directly, with modification to their project files to satisfy to your need.
 
+When doing so, you are recommended to checked out these repos at [the specified versions](https://github.com/vczh-libraries/Release/blob/master/Import/README.md) attached to the release you are using.
+
+- [VlppParser2/Tools/GlrParserGen](https://github.com/vczh-libraries/VlppParser2/tree/master/Tools/GlrParserGen)
 - [Workflow/Tools/CppMerge](https://github.com/vczh-libraries/Workflow/tree/master/Tools/CppMerge)
 - [GacUI/Tools/GacGen](https://github.com/vczh-libraries/GacUI/tree/master/Tools/GacGen)
 
