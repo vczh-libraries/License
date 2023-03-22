@@ -64,12 +64,13 @@ All files in these locations, if they are originally created by or have been mod
 * You cannot use it for other purposes
 * This license doesn't stop you from submitting PRs to these repos, but you should not distribute the modification via your own forks.
 
-### Exception
+### Tools
 
-You are allowed to build the following projects and run the executables **in your local machine** if it is not convenient for you to use the executables in **the Release repo** directly, with modification to their project files to satisfy to your need.
+Executables of tools are no longer released directly, there are [a copy](https://github.com/vczh-libraries/Release/tree/master/Tools) for each of the following sources in **the release repo**.
 
-When doing so, you are recommended to checked out these repos at [the specified versions](https://github.com/vczh-libraries/Release/blob/master/Import/README.md) attached to the release you are using.
+Exceptions of the following sources are no longer granded, if you have any special need, you could modify the source code of [these copies](https://github.com/vczh-libraries/Release/tree/master/Tools) under this license.
 
+- [VlppParser2/Tools/CodePack](https://github.com/vczh-libraries/VlppParser2/tree/master/Tools/CodePack)
 - [VlppParser2/Tools/GlrParserGen](https://github.com/vczh-libraries/VlppParser2/tree/master/Tools/GlrParserGen)
 - [Workflow/Tools/CppMerge](https://github.com/vczh-libraries/Workflow/tree/master/Tools/CppMerge)
 - [GacUI/Tools/GacGen](https://github.com/vczh-libraries/GacUI/tree/master/Tools/GacGen)
