@@ -63,6 +63,12 @@ All files in these locations, if they are originally created by or have been mod
 * You can read and debug the source code
 * You cannot use it for other purposes
 * This license doesn't stop you from submitting PRs to these repos, but you should not distribute the modification via your own forks.
+  * Two licenses combined allow you to apply changes of such PRs to your own copy of codes from **release repos**.
+  * To apply changes from **dev repos** to the **Release** repo automatically and systemically:
+    * Enlist all repos in the same folder and run [Tools/Build.ps1](https://github.com/vczh-libraries/Tools/blob/master/Tools/Build.ps1). This is required before submitting a PR to the **Release** repo.
+  * To do it manually:
+    * Execute **CodePack** (described below) on `Release/CodegenConfig.xml` in a **dev repo**, and run `git status` to see what files are changed.
+    * For the **GacUI** repo, [Tools/Build.ps1 -Project GacUI](https://github.com/vczh-libraries/Tools/blob/master/Tools/Build.ps1) is recommended.
 
 ### Tools
 
