@@ -34,6 +34,16 @@ For any project which uses **GacUI**, authors should ensure the following restri
 
 **GacUI Authors** means all autorized developers in [the GacUI team](https://github.com/orgs/vczh-libraries/people).
 
+# License for .github/copilot-instructions.md
+
+### Applies to
+
+- All **.github/copilot-instructions.md** files in each dev repos
+
+### Content
+
+These prompt files can be shared under [Apache v2.0](https://github.com/vczh-libraries/License/blob/master/LICENSE_Apache_v2).
+
 # License for dev repos
 
 ### Applies to
