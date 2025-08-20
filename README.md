@@ -2,6 +2,12 @@
 
 This repo contains license information for other repos in this organization. The [LICENSE](https://github.com/vczh-libraries/License/blob/master/LICENSE) file only applies to this file (README.md).
 
+# License for GacJS
+
+- [vczh-libraries/GacJS](https://github.com/vczh-libraries/GacJS)
+
+Source code in this repo is shared under [Apache v2.0](https://github.com/vczh-libraries/License/blob/master/LICENSE_Apache_v2).
+
 # License for release repos
 
 ### Applies to `master` and `release-*` branches of
@@ -60,7 +66,6 @@ These prompt files can be shared under [Apache v2.0](https://github.com/vczh-lib
 - [vczh-libraries/WebsiteSource](https://github.com/vczh-libraries/WebsiteSource)
 - [vczh-libraries/vczh-libraries.github.io](https://github.com/vczh-libraries/vczh-libraries.github.io)
 - Abondoned Repos
-  - [vczh-libraries/GacJS](https://github.com/vczh-libraries/GacJS)
   - [vczh-libraries/XGac](https://github.com/vczh-libraries/XGac)
 
 ### And also applies to
