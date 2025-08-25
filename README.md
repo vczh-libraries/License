@@ -44,7 +44,7 @@ For any project which uses **GacUI**, authors should ensure the following restri
 
 ### Applies to
 
-- All **.github/copilot-instructions.md** files in each dev repos
+- All **.github/copilot-instructions.md** and **./github/prompts/*.prompt.md** files in each dev repos
 
 ### Content
 
