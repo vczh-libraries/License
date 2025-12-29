@@ -14,6 +14,7 @@ Source code in this repo is shared under [Apache v2.0](https://github.com/vczh-l
 - [vczh-libraries/Release](https://github.com/vczh-libraries/Release)
 - [vczh-libraries/iGac](https://github.com/vczh-libraries/iGac)
 - [vczh-libraries/gGac](https://github.com/vczh-libraries/gGac)
+- [vczh-libraries/wGac](https://github.com/vczh-libraries/wGac)
 
 ### Content
 
