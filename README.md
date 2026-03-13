@@ -11,6 +11,7 @@ If a file is covered in multiple licenses, you can pick any one from these licen
 - Source files in [vczh-libraries/Tools](https://github.com/vczh-libraries/Tools)
 - Source files in [vczh-libraries/GacJS](https://github.com/vczh-libraries/GacJS)
 - All files under the **.github** folder in [vczh-libraries/Release](https://github.com/vczh-libraries/Release)
+- Does not apply to any submodule. They are assigned with separated licenses.
 
 They are shared under [Apache v2.0](https://github.com/vczh-libraries/License/blob/master/LICENSE_Apache_v2).
 They are not constrained by **the extra restrictions**.
@@ -22,6 +23,7 @@ They are not constrained by **the extra restrictions**.
 - [vczh-libraries/iGac](https://github.com/vczh-libraries/iGac)
 - [vczh-libraries/gGac](https://github.com/vczh-libraries/gGac)
 - [vczh-libraries/wGac](https://github.com/vczh-libraries/wGac)
+- Does not apply to any submodule. They are assigned with separated licenses.
 
 ### Content
 
@@ -63,6 +65,7 @@ For any project which uses **GacUI**, authors should ensure the following restri
 - [vczh-libraries/vczh-libraries.github.io](https://github.com/vczh-libraries/vczh-libraries.github.io)
 - Abondoned Repos
   - [vczh-libraries/XGac](https://github.com/vczh-libraries/XGac)
+- Does not apply to any submodule. They are assigned with separated licenses.
 
 ### Content
 
