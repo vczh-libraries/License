@@ -49,6 +49,16 @@ For any project which uses **GacUI**, authors should ensure the following restri
 4. `2.` and `3.` don't apply to any other kinds of improvements that are not changing licensed source files, e.g. adding new templates, new controls, new user interfaces, or making new tools to help developing projects that consume **GacUI**.
 5. If you have special need, please establish an agreement with [vczh](https://github.com/vczh).
 
+# License for GacUI Extensions
+
+### Applies to
+
+- Source files in [vczh-libraries/xgSkins](https://github.com/vczh-libraries/xgSkins)
+- Does not apply to any submodule. They are assigned with separated licenses.
+
+They are shared under [Apache v2.0](https://github.com/vczh-libraries/License/blob/master/LICENSE_Apache_v2).
+They are not constrained by **the extra restrictions**.
+
 # License for dev repos
 
 ### Applies to
