@@ -21,7 +21,6 @@ They are not constrained by **the extra restrictions**.
 ### Applies to
 - [vczh-libraries/Release](https://github.com/vczh-libraries/Release)
 - [vczh-libraries/iGac](https://github.com/vczh-libraries/iGac)
-- [vczh-libraries/gGac](https://github.com/vczh-libraries/gGac)
 - [vczh-libraries/wGac](https://github.com/vczh-libraries/wGac)
 - Does not apply to any submodule. They are assigned with separated licenses.
 
@@ -75,6 +74,7 @@ They are not constrained by **the extra restrictions**.
 - [vczh-libraries/vczh-libraries.github.io](https://github.com/vczh-libraries/vczh-libraries.github.io)
 - Abondoned Repos
   - [vczh-libraries/XGac](https://github.com/vczh-libraries/XGac)
+  - [vczh-libraries/gGac](https://github.com/vczh-libraries/gGac)
 - Does not apply to any submodule. They are assigned with separated licenses.
 
 ### Content
