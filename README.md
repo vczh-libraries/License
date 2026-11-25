@@ -54,6 +54,7 @@ For any project which uses **GacUI**, authors should ensure the following restri
 
 - Source files in [vczh-libraries/xgSkins](https://github.com/vczh-libraries/xgSkins)
 - Does not apply to any submodule. They are assigned with separated licenses.
+- Does not apply to any `Import` folder. These source files could be found in release repos.
 
 They are shared under [Apache v2.0](https://github.com/vczh-libraries/License/blob/master/LICENSE_Apache_v2).
 They are not constrained by **the extra restrictions**.
